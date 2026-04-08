@@ -50,9 +50,5 @@ A complete photo-taking and management app.
 * **Testing:** Pixel 7 Emulator (API 33+)
 
 ---
-
-## 🚀 How to use this Repo
-1. **Clone** this repository to your computer.
-2. Open the project folder in **Android Studio**.
 3. Let the **Gradle** sync finish.
 4. Run the app on an **Emulator** to see the projects in action!
