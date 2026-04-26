@@ -1,6 +1,6 @@
 # MAD (Mobile App Development) Assignment Portfolio
 
-Welcome to my Android development project collection. This repository contains **4 distinct applications** (Tasks) built using Java and Android Studio, covering everything from UI design to hardware sensors and media playback.
+Welcome to my Android development project collection. This repository contains **4 distinct applications** (Tasks) built using Java and Android Studio, covering everything from UI design to hardware sensors and media playback. These are my beginner miniprojects of android studio.
 
 ---
 
